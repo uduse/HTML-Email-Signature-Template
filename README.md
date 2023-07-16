@@ -10,6 +10,9 @@ So you want:
 ## It looks like this:
 <img width="1264" alt="Screenshot 2023-07-15 at 8 57 13 PM" src="https://github.com/uduse/HTML-Email-Signature-Template/assets/4717005/f492f27a-dd99-4a0b-92f4-c10462b51e83">
 
+## Customization Tips:
+Who the fork has the time to mess with boring HTML manually? Just paste the `Source` section into ChatGPT and ask it to customize as you wish.
+
 ## Source
 ```html
 <table cellpadding="0" cellspacing="0" style="font-family: Arial, sans-serif;">
