@@ -19,7 +19,7 @@ Who the fork has the time to mess with boring HTML manually? Just paste the `Sou
     <tbody>
         <tr>
             <td style="vertical-align: middle; padding-right: 24px;">
-                <img src="https://static.wixstatic.com/media/1aeaa6_135b34f4e2be48f2804f6f187f5f76ae~mv2.png" alt="Astrus logo" style="height: 44px; width: auto; vertical-align: middle;">
+                <img src="https://static.wixstatic.com/media/1aeaa6_135b34f4e2be48f2804f6f187f5f76ae~mv2.png" alt="Astrus logo" style="vertical-align: middle;" width="auto" height="44">
             </td>
             <td style="vertical-align: middle;">
                 <h3 style="color: rgb(43, 43, 43); margin: 0; padding-top: 6px; font-size: 1.2rem;">Zeyi Wang</h3>
